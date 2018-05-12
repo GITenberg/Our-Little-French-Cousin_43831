@@ -1,0 +1,31 @@
+_repo: Our-Little-French-Cousin_43831
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43831-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McManus, Blanche
+    aliases:
+    - Mansfield, Blanche McManus
+    - MacManus, Blanche
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+description: Illustrated by the author.
+gutenberg_issued: '2013-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43831'
+  lccn: '05020772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- France -- Juvenile literature'
+- !lcc 'DC'
+- !lcc 'PZ'
+title: Our Little French Cousin
+url: http://www.gutenberg.org/ebooks/43831
